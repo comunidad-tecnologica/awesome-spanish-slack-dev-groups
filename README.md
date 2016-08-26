@@ -19,5 +19,6 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 ### Chile
 - [devsChile](http://www.devschile.cl/)
+- [Programadores e Informáticos Chile](http://slack.programadores.cl)
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
 
