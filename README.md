@@ -6,6 +6,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 
 ## España
+- [CiudadReal.rb](http://slack.ciudadrealrb.org)
 - [Devscola](https://devscola.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
