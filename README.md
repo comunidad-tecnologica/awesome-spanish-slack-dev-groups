@@ -22,6 +22,3 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [devsChile](http://www.devschile.cl/)
 - [Programadores e Informáticos Chile](http://slack.programadores.cl)
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
-
-### Puerto Rico
-- [Programadores de Puerto Rico](https://www.hamsterpad.com/chat/prdevelopers)
