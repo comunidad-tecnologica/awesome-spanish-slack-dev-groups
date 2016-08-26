@@ -28,5 +28,8 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 ### Colombia
 - [SoyPlatzi](https://soyplatzi.herokuapp.com/)
 
+### Guatemala
+- [GameDevGT](http://slack-invite-gamedevgt.herokuapp.com/)
+
 ### Puerto Rico
 - [Programadores de Puerto Rico](https://prdevelopers.herokuapp.com)
