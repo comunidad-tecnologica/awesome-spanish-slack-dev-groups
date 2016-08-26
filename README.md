@@ -19,6 +19,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
 - [GDLJS](http://slack.gdljs.com/)
 - [JavascriptMX](http://chat.javascriptmx.com/)
+- [PHP Mexico](http://chat.phpmexico.mx/)
 
 ### Chile
 - [devsChile](http://www.devschile.cl/)
