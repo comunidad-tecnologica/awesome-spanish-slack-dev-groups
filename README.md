@@ -8,6 +8,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 ## España
 - [Devscola](https://devscola.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
+- [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
 - [Programación Funcional](http://progfunc.es)
 - [Valencia Devs](http://slack.vlctechhub.org)
 
