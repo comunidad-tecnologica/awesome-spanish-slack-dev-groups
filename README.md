@@ -16,9 +16,12 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
 - [GDLJS](http://slack.gdljs.com/)
+- [JavascriptMX](http://chat.javascriptmx.com/)
 
 ### Chile
 - [devsChile](http://www.devschile.cl/)
 - [Programadores e Informáticos Chile](http://slack.programadores.cl)
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
 
+### Puerto Rico
+- [Programadores de Puerto Rico](https://www.hamsterpad.com/chat/prdevelopers)
