@@ -30,6 +30,9 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 ### Colombia
 - [SoyPlatzi](https://soyplatzi.herokuapp.com/)
 
+### Costa Rica
+- [Costa Rica JS](slack.costaricajs.co)
+
 ### Guatemala
 - [GameDevGT](http://slack-invite-gamedevgt.herokuapp.com/)
 
