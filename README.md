@@ -38,3 +38,6 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 ### Puerto Rico
 - [Programadores de Puerto Rico](https://prdevelopers.herokuapp.com)
+
+### Uruguay
+- [Javascript Uruguay](http://owu.herokuapp.com/)
