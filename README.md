@@ -15,6 +15,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Magento Español](http://magesp.codezz.co/)
 - [Programación Funcional](http://progfunc.es)
 - [Valencia Devs](http://slack.vlctechhub.org)
+- [WordPress Alicante](https://wpalicante.slack.com)
 
 ## América Latina
 ### México
