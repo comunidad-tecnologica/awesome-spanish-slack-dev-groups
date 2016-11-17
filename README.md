@@ -10,6 +10,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
 - [BcnEng](http://slack.bcneng.net/)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
+- [CSTechHub](https://csth-slackin.herokuapp.com)
 - [Devscola](https://devscola.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
