@@ -6,6 +6,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 
 ## España
+- [Agile Spain](http://agilespainslack.herokuapp.com)
 - [AlicanteTech](https://www.alicantetech.es/slack/)
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
 - [BcnEng](http://slack.bcneng.net/)
