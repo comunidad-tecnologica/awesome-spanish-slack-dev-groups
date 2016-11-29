@@ -13,6 +13,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
 - [CSTechHub](https://csth-slackin.herokuapp.com)
 - [Devscola](https://devscola.slack.com)
+- [Docker Barcelona](https://dockerbcn.herokuapp.com)
 - [Elixir Barcelona](https://elixirbarcelona.herokuapp.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
