@@ -22,6 +22,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
 - [Valencia Devs](http://slack.vlctechhub.org)
 - [WordPress Alicante](https://wpalicante.slack.com)
+- [WordPress Madrid](http://wpmadrid.es/wp-login.php?action=slack-invitation)
 
 ## América Latina
 ### México
