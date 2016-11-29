@@ -18,6 +18,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
 - [Magento Español](http://magesp.codezz.co/)
+- [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Programación Funcional](http://progfunc.es)
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
 - [Valencia Devs](http://slack.vlctechhub.org)
