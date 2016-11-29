@@ -19,6 +19,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
 - [Magento Español](http://magesp.codezz.co/)
 - [Programación Funcional](http://progfunc.es)
+- [Python Madrid](https://python-madrid-learn.herokuapp.com)
 - [Valencia Devs](http://slack.vlctechhub.org)
 - [WordPress Alicante](https://wpalicante.slack.com)
 
