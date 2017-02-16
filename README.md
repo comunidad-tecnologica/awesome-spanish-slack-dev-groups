@@ -9,6 +9,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Agile Spain](http://agilespainslack.herokuapp.com)
 - [Alicante Frontend](alicante-frontend.slack.com)
 - [AlicanteTech](https://www.alicantetech.es/slack/)
+- [AsturiasDev](https://asturiasdev.herokuapp.com/)
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
 - [BcnEng](http://slack.bcneng.net/)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
