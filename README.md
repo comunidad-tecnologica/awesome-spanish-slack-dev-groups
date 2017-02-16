@@ -13,6 +13,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
 - [BcnEng](http://slack.bcneng.net/)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
+- [CinemaJs](https://cinemajs.slack.com/)
 - [CSTechHub](https://csth-slackin.herokuapp.com)
 - [Devscola](https://devscola.slack.com)
 - [Docker Barcelona](https://dockerbcn.herokuapp.com)
