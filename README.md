@@ -20,6 +20,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Docker Barcelona](https://dockerbcn.herokuapp.com)
 - [Elixir Barcelona](https://elixirbarcelona.herokuapp.com)
 - [FemDevs](https://femdevs.slack.com)
+- [GDG Spain](https://gdgspain.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Kiwi Devs](https://www.hamsterpad.com/chat/kiwi-devs)
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
