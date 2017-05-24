@@ -24,6 +24,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Kiwi Devs](https://kiwi-slack.herokuapp.com/)
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
+- [Madrid Devs](http://MadridDevs.org)
 - [Magento Español](http://magesp.codezz.co/)
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
