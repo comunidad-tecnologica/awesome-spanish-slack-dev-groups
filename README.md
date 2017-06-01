@@ -37,6 +37,8 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Zaragoza IT Hub](https://zithub.herokuapp.com/)
 
 ## América Latina
+- [#700](http://hashtag700.com/slack-700/)
+
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
 - [GDLJS](http://slack.gdljs.com/)
