@@ -50,9 +50,6 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Programadores e Informáticos Chile](http://slack.programadores.cl)
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
 
-### Colombia
-- [SoyPlatzi](https://soyplatzi.herokuapp.com/)
-
 ### Costa Rica
 - [Costa Rica JS](slack.costaricajs.co)
 
