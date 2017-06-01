@@ -38,6 +38,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 ## América Latina
 - [#700](http://hashtag700.com/slack-700/)
+- [Noders](http://noders.com)
 
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
