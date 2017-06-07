@@ -26,6 +26,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
 - [Madrid Devs](http://MadridDevs.org)
 - [Magento Español](http://magesp.codezz.co/)
+- [MurciaDev](http://murciadev.slack.com)
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
 - [Programación Funcional](http://progfunc.es)
