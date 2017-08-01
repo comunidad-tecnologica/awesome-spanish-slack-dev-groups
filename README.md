@@ -43,6 +43,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [#700](http://hashtag700.com/slack-700/)
 - [DevOps LatAm](http://devops-latam.herokuapp.com)
 - [Hacker Talk](https://hackertalk.typeform.com/to/qvWCa6)
+- [MendozaDevs](http://mendozadevs.herokuapp.com)
 - [Noders](http://noders.com)
 
 ### México
