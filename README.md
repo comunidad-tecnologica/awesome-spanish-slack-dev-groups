@@ -44,8 +44,10 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [#700](http://hashtag700.com/slack-700/)
 - [DevOps LatAm](http://devops-latam.herokuapp.com)
 - [Hacker Talk](https://hackertalk.typeform.com/to/qvWCa6)
-- [MendozaDevs](http://mendozadevs.herokuapp.com)
 - [Noders](http://noders.com)
+
+### Argentina
+- [MendozaDevs](http://mendozadevs.herokuapp.com)
 
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
@@ -59,7 +61,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
 
 ### Costa Rica
-- [Costa Rica JS](slack.costaricajs.co)
+- [Costa Rica JS](http://slack.costaricajs.co/)
 
 ### Guatemala
 - [GameDevGT](http://slack-invite-gamedevgt.herokuapp.com/)
