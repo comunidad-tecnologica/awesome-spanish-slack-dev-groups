@@ -46,6 +46,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [DevOps LatAm](http://devops-latam.herokuapp.com)
 - [Hacker Talk](https://hackertalk.typeform.com/to/qvWCa6)
 - [Noders](http://noders.com)
+- [Vue en Español](https://slack.vue-es.org)
 
 ### Argentina
 - [MendozaDevs](http://mendozadevs.herokuapp.com)
