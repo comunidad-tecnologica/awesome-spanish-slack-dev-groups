@@ -54,9 +54,9 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Vue en Español](https://slack.vue-es.org)
 
 ### Argentina
-- [MendozaDevs](http://mendozadevs.herokuapp.com)
-- [MeetupJS](http://meetupjs.com.ar/)
 - [freeCodeCamp Buenos Aires](https://freecodecampba.org/)
+- [MeetupJS](http://meetupjs.com.ar/)
+- [MendozaDevs](http://mendozadevs.herokuapp.com)
 
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
@@ -65,9 +65,9 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [PHP Mexico](http://chat.phpmexico.mx/)
 
 ### Chile
+- [#Chile](https://hashtagchile.herokuapp.com/apply)
 - [devsChile](http://www.devschile.cl/)
 - [Programadores e Informáticos Chile](http://slack.programadores.cl)
-- [#Chile](https://hashtagchile.herokuapp.com/apply)
 
 ### Costa Rica
 - [Costa Rica JS](http://slack.costaricajs.co/)
