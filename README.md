@@ -55,6 +55,8 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 ### Argentina
 - [MendozaDevs](http://mendozadevs.herokuapp.com)
+- [MeetupJS](http://meetupjs.com.ar/)
+- [freeCodeCamp Buenos Aires](https://freecodecampba.org/)
 
 ### México
 - [Coders Mexico](https://codersmexico.herokuapp.com/)
