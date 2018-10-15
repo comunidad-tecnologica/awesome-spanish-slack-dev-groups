@@ -35,6 +35,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
 - [Programación Funcional](http://progfunc.es)
+- [Programar es una mierda[(https://join.slack.com/t/programaresunamierda/shared_invite/enQtMjk0NzE3NzUwMjc5LTRkNzkxZDc4NTBlNzZhM2Q3ZjMyZjRhZDVhNjNkYjJhZmM2NmJkZWIwN2E1YTg2MDQzYTcwMmY3ZjNkMmQ5MzM)
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
 - [Scala Barcelona](http://slack.scalabcn.org/)
 - [ScalaEs](http://scalaes-register.herokuapp.com/)
