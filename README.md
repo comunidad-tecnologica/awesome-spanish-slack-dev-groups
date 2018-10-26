@@ -15,6 +15,8 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [BcnEng](http://slack.bcneng.net/)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
 - [CinemaJs](https://cinemajs.slack.com/)
+- [Codemotion Spain](https://join.slack.com/t/codemotionspain/shared_invite/enQtMzg3OTUzOTc0NDg1LTA4OTYwOWE3NWViZmU1MDg0YTczMDE1ZmQ4YWMzNzlhZDI2MDhjZDI2ODVkNjgzNDY3NjZmZDg0OGRjZWJkMWQ)
+- [Comunidad WP en Español](https://join.slack.com/t/anuncioswp/shared_invite/enQtMjY5NTM2MzM4OTQ3LTMwYWJkY2MzMDg0MDlmNmEzYWQ0NDlhMGZkZDA5MjU5YmJjMjg1OTE3NzE1ZGNmNjhjOTNmMDE0Y2Y5OGMwYzY)
 - [CSTechHub](https://csth-slackin.herokuapp.com)
 - [Devscola](https://devscola.slack.com)
 - [Docker Barcelona](https://dockerbcn.herokuapp.com)
@@ -22,22 +24,28 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [FemDevs](https://femdevs.slack.com)
 - [GDG Spain](https://gdgspain.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
+- [Huelva Developers](https://join.slack.com/t/huelva-developers/shared_invite/enQtMzY2NzUwNTA3NjY3LTIwNTliNjhjYWM5OTM0NjA0Mjg0MWI3NWU4ZWUyMjEyZjMzY2M2YTQxMGVlZDI2MGIwMGExMDFkMzk0YWJlYmY)
 - [JavascriptES](http://javascriptes.herokuapp.com)
 - [Kiwi Devs](https://kiwi-slack.herokuapp.com/)
 - [Laraveles](http://laraveles-slack.bigcode.eu/)
 - [Madrid Devs](http://MadridDevs.org)
 - [Magento Español](http://magesp.codezz.co/)
+- [Málaga Scala Developers](https://malagascala.slack.com/)
 - [MurciaDev](http://murciadev.slack.com)
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
 - [Programación Funcional](http://progfunc.es)
+- [Programar es una mierda[(https://join.slack.com/t/programaresunamierda/shared_invite/enQtMjk0NzE3NzUwMjc5LTRkNzkxZDc4NTBlNzZhM2Q3ZjMyZjRhZDVhNjNkYjJhZmM2NmJkZWIwN2E1YTg2MDQzYTcwMmY3ZjNkMmQ5MzM)
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
 - [Scala Barcelona](http://slack.scalabcn.org/)
 - [ScalaEs](http://scalaes-register.herokuapp.com/)
 - [TenerifeTech](https://slackin-tenerifetech.herokuapp.com/)
 - [Valencia Devs](http://slack.vlctechhub.org)
+- [Vigo Tech Alliance](https://slackin-vigotech.herokuapp.com/)
 - [WordPress Alicante](https://wpalicante.slack.com)
+- [WordPress España](https://es.wordpress.org/colabora/comunidad/)
 - [WordPress Madrid](http://wpmadrid.es/wp-login.php?action=slack-invitation)
+- [WordPress Valladolid](http://wpvalladolid.slack.com)
 - [Zaragoza IT Hub](https://zithub.herokuapp.com/)
 
 ## América Latina
@@ -45,8 +53,12 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [DevOps LatAm](http://devops-latam.herokuapp.com)
 - [Hacker Talk](https://hackertalk.typeform.com/to/qvWCa6)
 - [Noders](http://noders.com)
+- [SpacioDev](https://join.slack.com/t/spaciodev/shared_invite/enQtMjg0OTYzNTc4NjU4LWFlYWNmYjAwNGM1ZmY5OWFiNzUxNGUwNTlmYWU2ZmU5NDU2ZWE2Y2E2Njg3MWRkYzk1N2M3ZTc2NGY1ODQ1NGY)
+- [Vue en Español](https://slack.vue-es.org)
 
 ### Argentina
+- [freeCodeCamp Buenos Aires](https://freecodecampba.org/)
+- [MeetupJS](http://meetupjs.com.ar/)
 - [MendozaDevs](http://mendozadevs.herokuapp.com)
 
 ### México
@@ -56,9 +68,9 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [PHP Mexico](http://chat.phpmexico.mx/)
 
 ### Chile
+- [#Chile](https://hashtagchile.herokuapp.com/apply)
 - [devsChile](http://www.devschile.cl/)
 - [Programadores e Informáticos Chile](http://slack.programadores.cl)
-- [#Chile](https://hashtagchile.herokuapp.com/apply)
 
 ### Costa Rica
 - [Costa Rica JS](http://slack.costaricajs.co/)
