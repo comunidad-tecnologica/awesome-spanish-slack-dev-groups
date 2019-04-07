@@ -37,6 +37,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Programación Funcional](http://progfunc.es)
 - [Programar es una mierda](https://join.slack.com/t/programaresunamierda/shared_invite/enQtMjk0NzE3NzUwMjc5LTRkNzkxZDc4NTBlNzZhM2Q3ZjMyZjRhZDVhNjNkYjJhZmM2NmJkZWIwN2E1YTg2MDQzYTcwMmY3ZjNkMmQ5MzM)
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
+- [Salamanca Devs](https://join.slack.com/t/salamancadevs/shared_invite/enQtNDk1MjA4MDIyMTM0LTZhMjAwNzFhYTRlM2UzN2JhZGFjODEwYjcyNDA4NGYzMGM3YWJjMzIzNmFmMmMwNWQwZjVkYTk2NWU0NTI2MGY)
 - [Scala Barcelona](http://slack.scalabcn.org/)
 - [ScalaEs](http://scalaes-register.herokuapp.com/)
 - [TenerifeTech](https://slackin-tenerifetech.herokuapp.com/)
