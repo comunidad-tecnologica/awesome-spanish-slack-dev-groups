@@ -34,7 +34,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [MurciaDev](http://murciadev.slack.com)
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
-- [PHPSevilla] (https://phpsevilla.slack.com/join/shared_invite/enQtMzYyMDU3MzczMTU1LTc2N2Q0N2U1YWI4NjI3OTZjODUxNjYyNTI3YjhiMWM2YmNmYjgwNmMxMzk3OGI2MjY5ZTc0YzZlNjVmZmFiMDc)
+- [PHPSevilla](https://phpsevilla.slack.com/join/shared_invite/enQtMzYyMDU3MzczMTU1LTc2N2Q0N2U1YWI4NjI3OTZjODUxNjYyNTI3YjhiMWM2YmNmYjgwNmMxMzk3OGI2MjY5ZTc0YzZlNjVmZmFiMDc)
 - [Programación Funcional](http://progfunc.es)
 - [Programar es una mierda](https://join.slack.com/t/programaresunamierda/shared_invite/enQtMjk0NzE3NzUwMjc5LTRkNzkxZDc4NTBlNzZhM2Q3ZjMyZjRhZDVhNjNkYjJhZmM2NmJkZWIwN2E1YTg2MDQzYTcwMmY3ZjNkMmQ5MzM)
 - [Python Madrid](https://python-madrid-learn.herokuapp.com)
