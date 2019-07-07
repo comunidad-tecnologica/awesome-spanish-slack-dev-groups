@@ -16,6 +16,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
 - [CinemaJs](https://cinemajs.slack.com/)
 - [Codemotion Spain](https://join.slack.com/t/codemotionspain/shared_invite/enQtMzg3OTUzOTc0NDg1LTA4OTYwOWE3NWViZmU1MDg0YTczMDE1ZmQ4YWMzNzlhZDI2MDhjZDI2ODVkNjgzNDY3NjZmZDg0OGRjZWJkMWQ)
+- [Comunidades Técnicas](https://join.slack.com/t/comunidadestc-mld4471/shared_invite/enQtNjY1MzA1NzM5OTM5LWI4YmQ1MGE3MjNhOTRlZjBlYWZjNGFhNDFmOTg5NTMxZDQwYzk4NDI2ODRmNzk0ZmI1YzEyMWIyZDlmMmFmNjc)
 - [Comunidad WP en Español](https://join.slack.com/t/anuncioswp/shared_invite/enQtMjY5NTM2MzM4OTQ3LTMwYWJkY2MzMDg0MDlmNmEzYWQ0NDlhMGZkZDA5MjU5YmJjMjg1OTE3NzE1ZGNmNjhjOTNmMDE0Y2Y5OGMwYzY)
 - [CSTechHub](https://csth-slackin.herokuapp.com)
 - [Devscola](https://devscola.slack.com)
