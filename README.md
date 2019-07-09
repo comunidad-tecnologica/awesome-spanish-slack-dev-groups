@@ -23,6 +23,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Elixir Barcelona](https://elixirbarcelona.herokuapp.com)
 - [FemDevs](https://femdevs.slack.com)
 - [GDG Spain](https://gdgspain.slack.com)
+- [GDG Toledo](https://gdgtoledoes.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
 - [Huelva Developers](https://join.slack.com/t/huelva-developers/shared_invite/enQtMzY2NzUwNTA3NjY3LTIwNTliNjhjYWM5OTM0NjA0Mjg0MWI3NWU4ZWUyMjEyZjMzY2M2YTQxMGVlZDI2MGIwMGExMDFkMzk0YWJlYmY)
 - [JavascriptES](http://javascriptes.herokuapp.com)
