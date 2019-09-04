@@ -15,6 +15,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [AsturiasDev](https://asturiasdev.herokuapp.com/)
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
 - [BcnEng](http://slack.bcneng.net/)
+- [CanariasDev](https://publicslack.com/slacks/canariasdev/invites/new)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
 - [CinemaJs](https://cinemajs.slack.com/)
 - [Codemotion Madrid](https://join.slack.com/t/codemotionspain/shared_invite/enQtNDI1ODAxMzc5MjA3LTAxZWU5Y2I3ZmMxNmIxMDdiMTJlOTVkODNiOWU2NDU1MDAxMzhlMjBiNzZjODEyYWY5MThjN2U0YjQ2ZGNiNTg)
