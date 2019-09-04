@@ -4,6 +4,8 @@
 
 Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por favor revisa primero la guía para colaboradores.
 
+## Global
+- [Cloud en Español](https://launchpass.com/cloud-espanol)
 
 ## España
 - [Agile Spain](http://agilespainslack.herokuapp.com)
