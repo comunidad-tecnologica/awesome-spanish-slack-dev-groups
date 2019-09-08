@@ -23,6 +23,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Comunidad WP en Español](https://join.slack.com/t/anuncioswp/shared_invite/enQtMjY5NTM2MzM4OTQ3LTMwYWJkY2MzMDg0MDlmNmEzYWQ0NDlhMGZkZDA5MjU5YmJjMjg1OTE3NzE1ZGNmNjhjOTNmMDE0Y2Y5OGMwYzY)
 - [Coruña Developers](https://corunadevelopers.slack.com/join/shared_invite/enQtMzAxMzU4MzMwMDMyLThkNWYwMzMzODUzMmE0MDE0MGFhZjIxM2U5MzdkYjhlNTM3ZDZhYjliNTk4NWRhYzYwMzI0MjRlZjUyN2JiN2U)
 - [CSTechHub](https://csth-slackin.herokuapp.com)
+- [CyLicon Valley](https://cyliconvalley.herokuapp.com/)
 - [Devscola](https://devscola.slack.com)
 - [Docker Barcelona](https://dockerbcn.herokuapp.com)
 - [Elixir Barcelona](https://elixirbarcelona.herokuapp.com)
