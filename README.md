@@ -28,6 +28,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Docker Barcelona](https://dockerbcn.herokuapp.com)
 - [Elixir Barcelona](https://elixirbarcelona.herokuapp.com)
 - [FemDevs](https://femdevs.slack.com)
+- [FineCinnamon Android](https://ojetehandler.slack.com)
 - [GDG Spain](https://gdgspain.slack.com)
 - [GDG Toledo](https://gdgtoledoes.slack.com)
 - [Haskellnautas](http://haskellnautas.herokuapp.com)
