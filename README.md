@@ -76,6 +76,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [GDLJS](http://slack.gdljs.com/)
 - [JavascriptMX](http://chat.javascriptmx.com/)
 - [PHP Mexico](http://chat.phpmexico.mx/)
+- [Codeando México](http://slack.codeandomexico.org/)
 
 ### Chile
 - [#Chile](https://hashtagchile.herokuapp.com/apply)
