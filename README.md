@@ -65,6 +65,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Noders](http://noders.com)
 - [SpacioDev](https://join.slack.com/t/spaciodev/shared_invite/enQtMjg0OTYzNTc4NjU4LWFlYWNmYjAwNGM1ZmY5OWFiNzUxNGUwNTlmYWU2ZmU5NDU2ZWE2Y2E2Njg3MWRkYzk1N2M3ZTc2NGY1ODQ1NGY)
 - [Vue en Español](https://slack.vue-es.org)
+- [Comunidad de Desarrolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/es/)
 
 ### Argentina
 - [freeCodeCamp Buenos Aires](https://freecodecampba.org/)
