@@ -73,7 +73,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [MendozaDevs](http://mendozadevs.herokuapp.com)
 
 ### México
-- [Coders Mexico](https://codersmexico.herokuapp.com/)
+- [Coders Mexico](http://codersmexico.com.mx/)
 - [GDLJS](http://slack.gdljs.com/)
 - [JavascriptMX](http://chat.javascriptmx.com/)
 - [PHP Mexico](http://chat.phpmexico.mx/)
