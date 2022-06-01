@@ -39,7 +39,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Madrid Devs](http://MadridDevs.org)
 - [Magento Español](http://magesp.codezz.co/)
 - [Málaga Scala Developers](https://malagascala.slack.com/)
-- [MurciaDev](http://murciadev.slack.com)
+- [MurciaDev](https://murcia.dev)
 - [NodeSchool Madrid](http://nodeschoolmadrid.herokuapp.com)
 - [Open Source Weekends](https://invitations-osweekends.herokuapp.com)
 - [PHPSevilla](https://phpsevilla.slack.com/join/shared_invite/enQtMzYyMDU3MzczMTU1LTc2N2Q0N2U1YWI4NjI3OTZjODUxNjYyNTI3YjhiMWM2YmNmYjgwNmMxMzk3OGI2MjY5ZTc0YzZlNjVmZmFiMDc)
