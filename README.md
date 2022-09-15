@@ -50,7 +50,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [Scala Barcelona](http://slack.scalabcn.org/)
 - [ScalaEs](http://scalaes-register.herokuapp.com/)
 - [TenerifeTech](https://slackin-tenerifetech.herokuapp.com/)
-- [Valencia Devs](http://slack.vlctechhub.org)
+- [VLCTech](http://slack.vlctechhub.org)
 - [Vigo Tech Alliance](https://slackin-vigotech.herokuapp.com/)
 - [WordPress Alicante](https://wpalicante.slack.com)
 - [WordPress España](https://es.wordpress.org/colabora/comunidad/)
